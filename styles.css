@@ -11530,5 +11530,12 @@ html {
   font-size: 4rem;
   color: black;
 }
+.bi:hover {
+    color: #cbf200;
+    ;
+}
+.bi-moon {
+  color: #cbf200;
+}
 
 
